@@ -13,10 +13,10 @@ function About() {
     }
 
     const socials = {
-        youtube: '[@wydios](https://www.youtube.com/@Wydios)',
-        twitch: '[@wydios](https://www.twitch.tv/wydios)',
-        tiktok: '[@wydios](https://www.tiktok.com/@wydios)',
-        discord: '@wydios'
+        youtube: '@wydios Link: https://www.youtube.com/@Wydios',
+        twitch: '@wydios Link: https://www.twitch.tv/wydios',
+        tiktok: '@wydios Link: https://www.tiktok.com/@wydios',
+        discord: '@wydios Link: https://discord.gg/7ngxfFYxY4'
     };
 
     return { name, user, age, socials };
