@@ -30,5 +30,4 @@ class About {
             socials: this.socials
         };
     }
-}
-const aboutMe = new About();
+};
