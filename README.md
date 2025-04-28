@@ -39,8 +39,8 @@ function About(): AboutInfo {
 
 const { name, user, age, socials } = About();
 console.log(`Hello, I am ${user}, a German guy. My real name is ${name},
-I am ${age} years old. You can follow me on my socials:
-YouTube: ${socials.youtube}
+I am ${age} years old. You can follow me on my socials ➜
+• YouTube: ${socials.youtube}
 • Twitch: ${socials.twitch}
 • TikTok: ${socials.tiktok}
 • Discord Server: ${socials.discord}`);
