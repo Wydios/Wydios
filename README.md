@@ -1,16 +1,16 @@
 ```ts
-type SocialLinks = {
-    youtube: string;
-    twitch: string;
-    tiktok: string;
-    discord: string;
-};
-
 type AboutInfo = {
     name: string;
     user: string;
     age: number;
     socials: SocialLinks;
+};
+
+type SocialLinks = {
+    youtube: string;
+    twitch: string;
+    tiktok: string;
+    discord: string;
 };
 
 function About(): AboutInfo {
