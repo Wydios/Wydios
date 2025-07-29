@@ -14,8 +14,8 @@ type SocialLinks = {
 };
 
 function About(): AboutInfo {
-    const name = 'Fabian';
-    const user = 'Wydios';
+    const name = "Fabian";
+    const user = "Wydios";
     let age = 16;
     const today = new Date();
 
