@@ -16,7 +16,7 @@ type AboutInfo = {
 function About(): AboutInfo {
     const name = "Fabian";
     const user = "Wydios";
-    let age = 17;
+    let age = 18;
     const today = new Date();
 
     function isBirthday(month: number, day: number): boolean {
